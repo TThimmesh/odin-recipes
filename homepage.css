@@ -1,0 +1,31 @@
+.header {
+    background-color: lightcoral;
+    text-align: center;
+    border-radius: 25px;
+    padding: 40px;
+}
+
+.links {
+    background-color: white;
+    padding: 20px;
+    margin-left: 750px;
+    margin-right: 750px;
+}
+
+.biscuit {
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.eggs {
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.pancakes {
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 25px;
+}
